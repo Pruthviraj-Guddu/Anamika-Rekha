@@ -62,11 +62,20 @@
 
   "education": [
     {
-      "endDate": "2012",
-      "startDate": "2008",
-      "area": "Computer Education and Instructional Technology",
-      "studyType": "Bachelor Degree",
-      "institution": "Gazi University"
+      "endDate": "2024",
+      "startDate": "2022",
+      "area": "Data Science",
+      "studyType": "Master of Science",
+      "institution": "Drexel University, Philadelphia, PA",
+      "gpa": "3.93"
+    },
+    {
+      "endDate": "2021",
+      "startDate": "2017",
+      "area": "Computer Science and Engineering",
+      "studyType": "Bachelor of Technology (Honors)",
+      "institution": "APJ Abdul Kalam Technological University, Kerala, India",
+      "gpa": "3.78"
     }
   ],
   "references": [
@@ -90,44 +99,32 @@
   "skills": [
     {
       "keywords": [
-        "Javascript",
-        "React.JS",
-        "Node.JS",
-        "Next.JS",
-        "Vite",
-        "Git",
-        "React Router",
-        "Redux Toolkit",
-        "Styled Components",
-        "SASS",
-        "Tailwind CSS"
+        "Python",
+        "SQL",
+        "Tableau",
+        "Power BI",
+        "Apache Spark",
+        "Google Cloud Platform",
+        "Databricks",
+        "Machine Learning"
       ],
-      "level": "Junior",
-      "name": "Frontend",
+      "level": "Professional",
+      "name": "Data Science",
       "situation": "Technologies I Use"
     },
     {
       "keywords": [
-        "Jest.JS",
-        "FastAPI",
-        "GraphQL",
-        "React Query",
-        "Formik",
-        "React Hook Form",
-        "React Native",
-
-        "Express.JS",
-
-        "TypeScript",
-
-        "Go",
-
-        "MongoDB",
-        "PostgreSQL"
+        "AWS",
+        "Matplotlib",
+        "PyTorch",
+        "Salesforce",
+        "CRM Analytics",
+        "Adobe Experience Platform",
+        "Google Analytics"
       ],
-      "level": "Junior",
-      "name": "Frontend",
-      "situation": "What i want to learn..."
+      "level": "Intermediate",
+      "name": "Data Science",
+      "situation": "Tools & Technologies"
     }
   ],
   "awards": [
