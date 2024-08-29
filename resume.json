@@ -32,30 +32,30 @@
 
   "repository": [
     {
-      "name": "Interactive Guide to Flexbox",
-      "explanation": "A tool where you can experience the use of CSS Flexbox without writing code.",
-      "tag": ["css3", "javascript", "html5"],
-      "bestLang": "css3",
+      "name": "Movie Recommendation System",
+      "explanation": "Led data cleaning and built collaborative filtering models for predicting user movie ratings.",
+      "tag": ["Python", "Pandas", "SciPy"],
+      "bestLang": "Python",
+      "date": "2024.03.28",
+      "link": "https://github.com/AnamikaRekha1999/movie-recommendation-system",
+      "viewLink": ""
+    },
+    {
+      "name": "UNICEF Data Warehouse Project",
+      "explanation": "Managed ETL pipelines and built a robust Star schema for efficient data modeling.",
+      "tag": ["SQL", "Data Warehousing", "ETL"],
+      "bestLang": "SQL",
+      "date": "2024.03.24",
+      "link": "https://github.com/AnamikaRekha1999/unicef-data-warehouse",
+      "viewLink": ""
+    },
+    {
+      "name": "Financial Stock Data Analysis Project",
+      "explanation": "Performed sentiment analysis and developed an LSTM model to predict stock prices.",
+      "tag": ["Python", "Keras", "TensorFlow"],
+      "bestLang": "Python",
       "date": "2023.03.28",
-      "link": "https://github.com/haydogdu1990/interactive-guide-to-flexbox",
-      "viewLink": "https://haydogdu1990.github.io/interactive-guide-to-flexbox/"
-    },
-    {
-      "name": "React ile Twitter Web Clone",
-      "explanation": "Creating a twitter clone using React NextJS and Storybook",
-      "tag": ["javascript", "css3", "reactjs", "nextjs", "storybook", "svgr"],
-      "bestLang": "reactjs",
-      "date": "2023.01.15",
-      "link": "https://github.com/haydogdu1990/twitter-web-clone-react",
-      "viewLink": "https://twitter-web-clone-react-7al4.vercel.app/"
-    },
-    {
-      "name": "React Guides",
-      "explanation": "This project contains simple applications created to guide the use of React tools.",
-      "tag": ["reactjs"],
-      "bestLang": "reactjs",
-      "date": "2022.04.05",
-      "link": "https://github.com/haydogdu1990/React-Guidest",
+      "link": "https://github.com/AnamikaRekha1999/financial-stock-analysis",
       "viewLink": ""
     }
   ],
