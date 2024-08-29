@@ -7,6 +7,7 @@
     "label": "Data Scientist",
     "image": "https://avatars.githubusercontent.com/u/137219152?v=4",
     "summary": "I am a Data Scientist with a solid foundation in data analysis, machine learning, and software development. My expertise spans across Python, SQL, and various data visualization tools like Power BI and Tableau. I have hands-on experience in creating data pipelines, conducting data analysis, and building machine learning models. I am passionate about turning complex data into actionable insights and am continuously learning new tools and technologies to stay ahead in the field.",
+    "website": "#",
     "email": "anamika.rekhar@gmail.com",
     "location": {
       "city": "Cheltenham",
@@ -14,12 +15,12 @@
     },
     "profiles": {
       "github": {
-        "username": "AnamikaRekha1999",
-        "url": "https://github.com/AnamikaRekha1999"
+        "url": "github.com//AnamikaRekha1999",
+        "username": "AnamikaRekha1999"
       },
       "linkedin": {
         "username": "anamikarekha",
-        "url": "https://linkedin.com/in/anamikarekha"
+        "url": "https://www.linkedin.com/in/anamikarekha"
       }
     }
   },
@@ -72,7 +73,24 @@
       "gpa": "3.78"
     }
   ],
-
+  "references": [
+    {
+      "reference": "",
+      "name": ""
+    },
+    {
+      "reference": "",
+      "name": ""
+    },
+    {
+      "reference": "",
+      "name": ""
+    },
+    {
+      "reference": "",
+      "name": ""
+    }
+  ],
   "skills": [
     {
       "keywords": [
@@ -102,42 +120,49 @@
       "name": "Tools & Technologies"
     }
   ],
-
+  "awards": [
+    {
+      "title": "",
+      "awarder": ""
+    }
+  ],
   "work": [
     {
-      "summary": "Created dashboards and analyzed data for operational efficiency at Karpo Consulting LLC.",
-      "website": "https://karpoconsulting.com/",
-      "name": "Karpo Consulting LLC",
-      "location": "Philadelphia, PA",
-      "position": "Data Science Co-op Intern",
-      "startDate": "2023.09",
-      "endDate": "2024.01",
-      "highlights": [
-        "Developed user-friendly dashboards using Power BI.",
-        "Visualized equipment maintenance data to improve operational efficiency.",
-        "Analyzed fuel and power usage for generators and UPS systems."
-      ]
+      "summary": "edelkrone is a corporate company that produces camera equipment. I have been working as a laser marking manager in this company for 3 years.",
+      "website": "https://edelkrone.com/",
+      "name": "Edelkrone",
+      "location": "Ankara",
+      "position": "Laser Marking Manager",
+      "startDate": "2019",
+      "highlights": ["", "", "", ""]
+    },
+
+    {
+      "summary": "Europower Enerji offers a wide range of engineering services such as project design, project management, automation & SCADA, commissioning, inspection, field tests and training services. I worked in this company as an IT Technical Service Specialist for 1 year.",
+      "website": "https://www.europowerenerji.com.tr/",
+      "name": "Europower Enerji",
+      "location": "Ankara",
+      "position": "IT Technical Service Specialist",
+      "startDate": "2017",
+      "highlights": ["", "", "", ""]
     },
     {
-      "summary": "Developed and supported ETL processes at Cognizant Technology Solutions.",
-      "website": "https://www.cognizant.com/",
-      "name": "Cognizant Technology Solutions",
-      "location": "Bangalore, India",
-      "position": "Programmer Analyst",
-      "startDate": "2021.08",
-      "endDate": "2022.09",
-      "highlights": [
-        "Developed data pipelines for ETL processes.",
-        "Handled data governance tasks for data minimization.",
-        "Supported testing and deployment activities."
-      ]
+      "summary": "Europower Enerji offers a wide range of engineering services such as project design, project management, automation & SCADA, commissioning, inspection, field tests and training services. I worked in this company as an Labeling and Branding Specialist for 3 year.",
+      "website": "https://www.europowerenerji.com.tr/",
+      "name": "Europower Enerji",
+      "location": "Ankara",
+      "position": "Labeling and Branding Specialist",
+      "startDate": "2015",
+      "highlights": ["", "", "", ""]
     }
   ],
 
   "interests": [
-    "Data Visualization",
-    "Machine Learning",
-    "Open Source Contributions",
-    "Learning New Technologies"
+    "Drawing",
+    "Algorithm",
+    "Sudoku",
+    "Open Source",
+    "Nonogram",
+    "Risk game"
   ]
 }
