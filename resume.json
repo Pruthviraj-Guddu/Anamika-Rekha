@@ -135,31 +135,12 @@
   ],
   "work": [
     {
-      "summary": "edelkrone is a corporate company that produces camera equipment. I have been working as a laser marking manager in this company for 3 years.",
-      "website": "https://edelkrone.com/",
-      "name": "Edelkrone",
-      "location": "Ankara",
-      "position": "Laser Marking Manager",
-      "startDate": "2019",
-      "highlights": ["", "", "", ""]
-    },
-
-    {
-      "summary": "Europower Enerji offers a wide range of engineering services such as project design, project management, automation & SCADA, commissioning, inspection, field tests and training services. I worked in this company as an IT Technical Service Specialist for 1 year.",
-      "website": "https://www.europowerenerji.com.tr/",
-      "name": "Europower Enerji",
-      "location": "Ankara",
-      "position": "IT Technical Service Specialist",
-      "startDate": "2017",
-      "highlights": ["", "", "", ""]
-    },
-    {
-      "summary": "Europower Enerji offers a wide range of engineering services such as project design, project management, automation & SCADA, commissioning, inspection, field tests and training services. I worked in this company as an Labeling and Branding Specialist for 3 year.",
-      "website": "https://www.europowerenerji.com.tr/",
-      "name": "Europower Enerji",
-      "location": "Ankara",
-      "position": "Labeling and Branding Specialist",
-      "startDate": "2015",
+      "summary": "Karpos is a ‘generalist’ consulting practice with emphasis in the areas of: vision, strategy, leadership, marketing, channel efficiency, operational excellence, change, innovation, succession.",
+      "website": "https://karposconsultingllc.com/",
+      "name": "Karpo Consulting LLC",
+      "location": "Philadelphia, PA",
+      "position": "Data Science Co-op Intern",
+      "startDate": "Sep 2023",
       "highlights": ["", "", "", ""]
     }
   ],
